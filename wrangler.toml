@@ -1,0 +1,3 @@
+name = "my-shortener"
+main = "_worker.js"
+compatibility_date = "2026-06-01"
